@@ -1,7 +1,7 @@
-prefix=/Users/glumes/ffmpeg_build/ffmpeg/../ffmpeg_library/android/armeabi-v7a
+prefix=/Users/kunli/AndroidProject/ffmpeg_android/ffmpeg/../ffmpeg_library/android/armeabi-v7a
 exec_prefix=${prefix}
-libdir=/Users/glumes/ffmpeg_build/ffmpeg/../ffmpeg_library/android/libs/armeabi-v7a
-includedir=/Users/glumes/ffmpeg_build/ffmpeg/../ffmpeg_library/android/armeabi-v7a/include
+libdir=/Users/kunli/AndroidProject/ffmpeg_android/ffmpeg/../ffmpeg_library/android/libs/armeabi-v7a
+includedir=/Users/kunli/AndroidProject/ffmpeg_android/ffmpeg/../ffmpeg_library/android/armeabi-v7a/include
 
 Name: libavutil
 Description: FFmpeg utility library
